@@ -1,3 +1,8 @@
-Variant2  
-Conference project 
-Buinov Artem
+#include <iostream>
+using namespace std;
+
+int main(){
+cout<<"Variant2"<<endl;  
+cout<<"Conference project"<<endl; 
+cout<<"Buinov Artem"<<endl;
+}
