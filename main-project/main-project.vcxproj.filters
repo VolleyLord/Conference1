@@ -24,9 +24,6 @@
     <ClCompile Include="filter_reader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="process.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="data.txt" />
@@ -42,9 +39,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="filter_reader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="processing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
